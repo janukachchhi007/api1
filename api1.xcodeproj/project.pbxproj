@@ -16,6 +16,7 @@
 		D3A9706C29D807B100A9BCD3 /* api1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A9706B29D807B100A9BCD3 /* api1Tests.swift */; };
 		D3A9707629D807B100A9BCD3 /* api1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A9707529D807B100A9BCD3 /* api1UITests.swift */; };
 		D3A9707829D807B100A9BCD3 /* api1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A9707729D807B100A9BCD3 /* api1UITestsLaunchTests.swift */; };
+		D3A9708529D8081300A9BCD3 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A9708429D8081300A9BCD3 /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D3A9707129D807B100A9BCD3 /* api1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = api1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3A9707529D807B100A9BCD3 /* api1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = api1UITests.swift; sourceTree = "<group>"; };
 		D3A9707729D807B100A9BCD3 /* api1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = api1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D3A9708429D8081300A9BCD3 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				D3A9705629D807AF00A9BCD3 /* SceneDelegate.swift */,
 				D3A9705829D807AF00A9BCD3 /* ViewController.swift */,
 				D3A9705A29D807AF00A9BCD3 /* Main.storyboard */,
+				D3A9708429D8081300A9BCD3 /* TableViewCell.swift */,
 				D3A9705D29D807B100A9BCD3 /* Assets.xcassets */,
 				D3A9705F29D807B100A9BCD3 /* LaunchScreen.storyboard */,
 				D3A9706229D807B100A9BCD3 /* Info.plist */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D3A9705929D807AF00A9BCD3 /* ViewController.swift in Sources */,
+				D3A9708529D8081300A9BCD3 /* TableViewCell.swift in Sources */,
 				D3A9705529D807AF00A9BCD3 /* AppDelegate.swift in Sources */,
 				D3A9705729D807AF00A9BCD3 /* SceneDelegate.swift in Sources */,
 			);
